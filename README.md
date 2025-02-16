@@ -56,33 +56,33 @@ Ensure you have the following tools and libraries installed:
 - **Python 3.x**: The primary language for the project.
 - **Hadoop 3.2.4**: For distributed computing and MapReduce operations.
 
-Required Python packages:
+## Installation
 
+1. **Clone the Repository**:
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+git clone https://github.com/saadrehman171000/Pokec-Social-Network-Hadoop-Cloud-Analysis.git
+cd Pokec-Social-Network-Hadoop-Cloud-Analysis
 ```
 
-### Setup Instructions
-
-#### Clone the Repository:
+2. **Install Dependencies**:
 ```bash
-git clone https://github.com/yourusername/pokec-analysis.git
+pip install -r requirements.txt
 ```
 
-#### Download the Dataset:
-Download the dataset from SNAP.
+3. **Download Dataset**:
+- Download the Pokec dataset from [SNAP](https://snap.stanford.edu/data/soc-Pokec.html)
+- Place the downloaded files in the project root directory
 
-#### Hadoop Configuration:
-Start Hadoop services:
+4. **Configure Hadoop**:
+- Ensure Hadoop 3.2.4 is installed
+- Set up environment variables
+- Start Hadoop services:
+  ```bash
+  start-dfs.sh
+  start-yarn.sh
+  ```
 
-```bash
-# Start HDFS and YARN
-start-dfs.sh
-start-yarn.sh
-```
-
-#### Run the Analysis:
-Example command to run demographic analysis:
+5. **Run Analysis**:
 ```bash
 python mapreduce_scripts/task1_demographics.py
 ```
