@@ -1,0 +1,17 @@
+REGISTRATION DAYS ANALYSIS
+================================================================================
+
+Total users: 1,632,803
+Average days: 1198.22
+Median days: 1169.00
+Min days: 0
+Max days: 4591
+Standard deviation: 867.15
+
+Percentiles:
+10th percentile: 76 days
+25th percentile: 433 days
+50th percentile: 1169 days
+75th percentile: 1824 days
+90th percentile: 2343 days
+

@@ -1,0 +1,42 @@
+	
+AGE Correlation with Completion Percentage:	
+Category	Count	Avg Completion	Min	Max	Median
+----------------------------------------------------------------------	
+0s	1	12.00%	12%	12%	12%
+100s	1	12.00%	12%	12%	12%
+10s	1	12.00%	12%	12%	12%
+20s	1	12.00%	12%	12%	12%
+30s	1	12.00%	12%	12%	12%
+40s	3	27.67%	12%	59%	12%
+50s	1	19.00%	19%	19%	19%
+60s	1	17.00%	17%	17%	17%
+70s	1	38.00%	38%	38%	38%
+80s	1	14.00%	14%	14%	14%
+90s	1	12.00%	12%	12%	12%
+	
+GENDER Correlation with Completion Percentage:	
+Category	Count	Avg Completion	Min	Max	Median
+----------------------------------------------------------------------	
+Female	1	71.00%	71%	71%	71%
+Male	3	41.67%	14%	64%	47%
+	
+PROFILE_TYPE Correlation with Completion Percentage:	
+Category	Count	Avg Completion	Min	Max	Median
+----------------------------------------------------------------------	
+Private	1	12.00%	12%	12%	12%
+Public	2	36.00%	22%	50%	50%
+	
+REGION Correlation with Completion Percentage:	
+Category	Count	Avg Completion	Min	Max	Median
+----------------------------------------------------------------------	
+banskobystricky kraj	1	12.00%	12%	12%	12%
+bratislavsky kraj	1	14.00%	14%	14%	14%
+ceska republika	1	12.00%	12%	12%	12%
+kosicky kraj	1	67.00%	67%	67%	67%
+nitriansky kraj	1	74.00%	74%	74%	74%
+null	1	0.00%	0%	0%	0%
+presovsky kraj	1	71.00%	71%	71%	71%
+trenciansky kraj	1	48.00%	48%	48%	48%
+trnavsky kraj	1	72.00%	72%	72%	72%
+zahranicie	1	19.00%	19%	19%	19%
+zilinsky kraj	1	19.00%	19%	19%	19%

@@ -1,0 +1,23 @@
+SPORT FREQUENCY ANALYSIS
+================================================================================
+
+ball_sports:
+- Count: 314326.0
+- Percentage: 63.20%
+
+winter_sports:
+- Count: 88051.0
+- Percentage: 17.70%
+
+fitness:
+- Count: 68906.0
+- Percentage: 13.85%
+
+swimming:
+- Count: 22327.0
+- Percentage: 4.49%
+
+cycling:
+- Count: 3729.0
+- Percentage: 0.75%
+

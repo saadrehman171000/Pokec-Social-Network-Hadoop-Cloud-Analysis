@@ -1,0 +1,43 @@
+HOBBY FREQUENCY ANALYSIS
+================================================================================
+
+sports:
+- Count: 349511.0
+- Percentage: 52.87%
+
+travel:
+- Count: 118264.0
+- Percentage: 17.89%
+
+social:
+- Count: 51188.0
+- Percentage: 7.74%
+
+shopping:
+- Count: 33892.0
+- Percentage: 5.13%
+
+cooking:
+- Count: 33266.0
+- Percentage: 5.03%
+
+reading:
+- Count: 26994.0
+- Percentage: 4.08%
+
+photography:
+- Count: 24604.0
+- Percentage: 3.72%
+
+music:
+- Count: 16655.0
+- Percentage: 2.52%
+
+art:
+- Count: 6500.0
+- Percentage: 0.98%
+
+gardening:
+- Count: 252.0
+- Percentage: 0.04%
+

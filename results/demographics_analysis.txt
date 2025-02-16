@@ -1,0 +1,30 @@
+	
+AGE Distribution (Total: 12):	
+0: Count=1 (8.33%)	
+10: Count=1 (8.33%)	
+100: Count=1 (8.33%)	
+20: Count=1 (8.33%)	
+30: Count=2 (16.67%)	
+40: Count=1 (8.33%)	
+50: Count=1 (8.33%)	
+60: Count=1 (8.33%)	
+70: Count=1 (8.33%)	
+80: Count=1 (8.33%)	
+90: Count=1 (8.33%)	
+	
+GENDER Distribution (Total: 4):	
+Female: Count=1 (25.00%)	
+Male: Count=3 (75.00%)	
+	
+REGION Distribution (Total: 11):	
+banskobystricky kraj: Count=1 (9.09%)	
+bratislavsky kraj: Count=1 (9.09%)	
+ceska republika: Count=1 (9.09%)	
+kosicky kraj: Count=1 (9.09%)	
+nitriansky kraj: Count=1 (9.09%)	
+null: Count=1 (9.09%)	
+presovsky kraj: Count=1 (9.09%)	
+trenciansky kraj: Count=1 (9.09%)	
+trnavsky kraj: Count=1 (9.09%)	
+zahranicie: Count=1 (9.09%)	
+zilinsky kraj: Count=1 (9.09%)	

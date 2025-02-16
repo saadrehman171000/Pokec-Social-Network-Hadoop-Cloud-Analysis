@@ -1,0 +1,786 @@
+Type	Label	Count	Percentage
+hobby	sports	349511	52.87
+hobby	travel	118264	17.89
+hobby	social	51188	7.74
+hobby	shopping	33892	5.13
+hobby	cooking	33266	5.03
+hobby	reading	26994	4.08
+hobby	photography	24604	3.72
+hobby	music	16655	2.52
+hobby	art	6500	0.98
+hobby	gardening	252	0.04
+sport	ball_sports	314326	63.20
+sport	winter_sports	88051	17.70
+sport	fitness	68906	13.85
+sport	swimming	22327	4.49
+sport	cycling	3729	0.75
+	
+Field Samples:	
+================================================================================	
+	
+Field 0:	
+----------------------------------------	
+66916	
+66715	
+66888	
+66901	
+66640	
+66844	
+66727	
+66750	
+66705	
+66790	
+	
+Field 1:	
+----------------------------------------	
+1	
+0	
+0	
+0	
+0	
+1	
+1	
+0	
+1	
+1	
+	
+Field 2:	
+----------------------------------------	
+29	
+12	
+26	
+74	
+55	
+67	
+64	
+62	
+40	
+31	
+	
+Field 3:	
+----------------------------------------	
+0	
+0	
+0	
+1	
+1	
+1	
+1	
+1	
+0	
+1	
+	
+Field 4:	
+----------------------------------------	
+bratislavsky kraj, pezinok	
+kosicky kraj, trebisov	
+nitriansky kraj, surany	
+nitriansky kraj, topolcany	
+zilinsky kraj, trstena	
+zilinsky kraj, ruzomberok	
+kosicky kraj, michalovce	
+banskobystricky kraj, lucenec	
+nitriansky kraj, surany	
+kosicky kraj, michalovce	
+	
+Field 5:	
+----------------------------------------	
+2012-05-25 17:07:00.0	
+2012-05-25 10:28:00.0	
+2012-05-25 23:11:00.0	
+2012-05-26 00:02:33.0	
+2012-05-25 21:48:00.0	
+2012-05-25 18:27:00.0	
+2012-05-25 22:49:00.0	
+2012-05-25 19:48:00.0	
+2011-09-01 21:36:00.0	
+2012-04-20 03:39:00.0	
+	
+Field 6:	
+----------------------------------------	
+2005-12-21 00:00:00.0	
+2007-03-22 00:00:00.0	
+2008-05-03 00:00:00.0	
+2006-03-04 00:00:00.0	
+2007-06-08 00:00:00.0	
+2009-02-18 00:00:00.0	
+2010-03-10 00:00:00.0	
+2006-11-19 00:00:00.0	
+2008-10-28 00:00:00.0	
+2007-09-11 00:00:00.0	
+	
+Field 7:	
+----------------------------------------	
+19	
+19	
+17	
+0	
+15	
+0	
+23	
+0	
+0	
+20	
+	
+Field 8:	
+----------------------------------------	
+180 cm, 58 kg	
+180 cm	
+174 cm, 75 kg	
+173 cm, 57 kg	
+171 cm, 72 kg	
+186 cm, 83 kg	
+168 cm	
+174 cm	
+178 cm, 80 kg, obcas :o))	
+165 cm, 53 kg	
+	
+Field 9:	
+----------------------------------------	
+uradujem :d:d:d wuaaaa	
+pornohereckych  vied no a tak enciklopedia sexxxu no :::ha ha ha	
+studujem, konzervatorium	
+zdravotnictva	
+studujem, zdravotnictva	
+studujem	
+ckd	
+som nezamestnany	
+spehovania=)))))	
+som nezamestnany, skolstva	
+	
+Field 10:	
+----------------------------------------	
+nemecky, nie 100&#37; :d	
+anglicky, nemecky, francuzsky, taliansky, rusky, spanielsky, japonsky, samozrejme aj svoj ako inak	
+anglicky, nemecky	
+anglicky, spanielsky	
+anglicky	
+anglicky, vlastny :p	
+anglicky, ucim sa aj rusky ale vela z neho neviem a paci sa mi spanielcina :)	
+japonsky,wa-siang-chua,majhvar,bung,hwla,hadza,imeraguen a mnohe dalsie..ale najlepsie komunikujem nespisovnou neandertalcinou	
+anglicky, nemecky, slovensky	
+anglicky, nemecky	
+	
+Field 11:	
+----------------------------------------	
+priatelia, pozeranie filmov, cestovanie, prace v zahrade, pocuvanie hudby, sex, sportovanie, turistika, praca s pc, surfovanie po webe, party	
+sportovanie, cestovanie, turistika, prace v zahrade, praca s pc, pc hry, surfovanie po webe, citanie, pocuvanie hudby, pozeranie filmov, chovatelstvo, kupalisko, jedlo, kino, priatelia, spanie, stanovanie, chodenie do muzei	
+sportovanie, pc hry, surfovanie po webe, tancovanie, party, ale tancovanie so 120v hi hi hi...	
+gitara, futbal, kupalisko, party, spanie, fotografovanie, pocuvanie hudby, priatelia	
+sportovanie, tancovanie, kupalisko, jedlo, kino, priatelia, spanie, sex	
+sportovanie, fotografovanie, cestovanie, pocuvanie hudby, pozeranie filmov, malovanie, tancovanie, diskoteky, kupalisko, kino, party, priatelia, spanie, stanovanie, atd..., varenie, citanie	
+pc hry, pozeranie filmov, spanie, praca s pc, surfovanie po webe, pocuvanie hudby	
+neprezradim...	
+pocuvanie hudby, praca s pc,bicyklovanie	
+sportovanie, pc hry, pozeranie filmov, kupalisko, jedlo, party, spanie, praca s pc, surfovanie po webe, pocuvanie hudby, kino, priatelia	
+	
+Field 12:	
+----------------------------------------	
+ked som najviac hladny :d:d	
+pri telke, v prirode	
+pri telke, v posteli	
+vsade kde ho dobre pripravia	
+pri telke, pri svieckach s partnerom, v dobrej restauracii, v prirode, v posteli, z partnerovho bruska, v kuchyni pri stole	
+pri telke	
+ano...	
+v kuchyni pri stole a v samoobsluhe	
+pri svieckach s partnerkou, pri telke	
+pri stole	
+	
+Field 13:	
+----------------------------------------	
+mam dvoch psov	
+mam psa,, mam plazy, mam hlodavce	
+mam psa, vola sa mia zlaty hafo riadna sefka	
+mam hlodavce, mam psa, mam macku	
+nemam ziadne	
+mam rybky, ale noo uz ani nie .... bohuzial :d	
+havko :)	
+pes, korytnacka, mala som 2 korytnacky, ale jedna uz nie je, a ta co je ma uz 7 a pol roka myslim, a pes?? tak to jedine moj kraaaasnucky charly pri babke ( ak neberem do uvahy, ze mam aj sestru ) =d a ozaj mala som aj rybky, al vydrzali len mesiac :( tha co uz	
+pes	
+ja som domace zvierata...	
+	
+Field 14:	
+----------------------------------------	
+priemerna	
+taka aka je =)	
+vysportovana, priemerna	
+priemerna, ako inak v poho	
+chuda	
+vysportovana, cvicim	
+vysportovana	
+tak zatial mi nohavice nepraskli ;) :d	
+priemerna	
+sportova	
+	
+Field 15:	
+----------------------------------------	
+vyborny	
+vyborny	
+vyborny, vyborny jako jastrab	
+casto vidim aj to co nechcem	
+vyborny	
+vyborny	
+vyborny	
+nosim kontaktne sosovky	
+sokoli ci orli? nejaky vtak to bol...	
+nosim okuliare	
+	
+Field 16:	
+----------------------------------------	
+zelene	
+zelene	
+modre	
+hnede, to uz vieteeeee	
+hnede	
+zelene	
+modro-zelene	
+hnede	
+vselijake :d vecsinou asi sive, niekedy zelene a obcas modre :d ehm	
+hnede	
+	
+Field 17:	
+----------------------------------------	
+hnede	
+pekna	
+hnede	
+hnede, aj to vieteeeee	
+hnede	
+hnede	
+cierne	
+cierne	
+hnede	
+original hnede, mali by byt karamelovo hnede ale akosi su cervene :d	
+	
+Field 18:	
+----------------------------------------	
+kratke	
+kratke	
+to sa mi nechce pisat....	
+rovne, dlhe	
+kratke	
+na jezka	
+na jezka	
+dlhe	
+dlhe	
+vid foto	
+	
+Field 19:	
+----------------------------------------	
+stredoskolske	
+este ziadne ale hadam to vinde	
+stredoskolske	
+zakladne	
+stredoskolske	
+stredoskolak	
+zakladne	
+zakladne, som v 4.rocniku na oa :)	
+studujem	
+stredoskolske	
+	
+Field 20:	
+----------------------------------------	
+biela, cervena, cierna, fialova, hneda, modra, oranzova, ruzova, zelena, zlta, to je jedno aka :-)	
+modra	
+biela, cervena, cierna, zelena, zlta,zelenucka	
+cervena, cierna, modra, zelena	
+cierna, oranzova, cervena, modra, zelena	
+biela, cervena, cierna, fialova, hneda, modra, oranzova, ruzova, zelena, zlta, tyrkisova	
+vsetky, the world is colorful :)	
+vsetky su super :)	
+belasa :))	
+modra, cervena	
+	
+Field 21:	
+----------------------------------------	
+nefajcim	
+fajcim prilezitostne	
+uz nefajcim, odhalili ste ma ha ha ha...., fajcim pravidelne ako turek	
+fajcim	
+nefajcim	
+uz nefajcim	
+nefajcim	
+nefajcim	
+nefajcim, ked si chce niekto nicit pluca, pre mna za mna....ale tak mna do toho netahajte :p:)	
+moze byt	
+	
+Field 22:	
+----------------------------------------	
+pijem prilezitostne	
+pijem prilezitostne	
+pijem prilezitostne - ale prilezitost sa vzdy najde :d	
+pijem prilezitostne, nooo tak taky aperitiv si dam ako inak tiez haha ha..... no tak piatok vecer bude no ved vete--.......	
+ako kedy	
+abstinent	
+pijem prilezitostne	
+pijem prilezitostne	
+abstinent	
+k zivotu potrebny	
+	
+Field 23:	
+----------------------------------------	
+baran	
+vodnar 15.2 :-)	
+certisko :d	
+kozorozec	
+skorpion	
+kozorozec, kop kop	
+vodnar	
+vahy	
+ryby	
+rak	
+	
+Field 24:	
+----------------------------------------	
+ani srnky netusia koho tu najdem :d	
+dobrych ludi :) a niekoho na stanovanie a chatovanie, vaznu znamost	
+dobreho priatela, priatelku, niekoho na chatovanie, piste o sto dusu...	
+znamich....	
+udrzujem vztahy s priatelmi, niekoho na chatovanie, mozno aj dobreho priatela, priatelku	
+dobreho priatela, priatelku, niekoho na chatovanie	
+niekoho na chatovanie	
+nehladam...	
+ihlu v kope sena,ramapiteka alebo kingkonga	
+nic :p	
+	
+Field 25:	
+----------------------------------------	
+prava laska je, ked sa mozes pozriet do duse cloveka a nebat sa toho, co je vnutri.	
+romanticka laska nie je pre mna, davam prednost realite uz som sa par krat na takych ojebal	
+v laske vidim zmysel zivota	
+vela	
+v laske vidim zmysel zivota	
+nie je nic lepsie, ako byt zamilovany(a)	
+ja s laskou nemam stastie	
+neznamena...	
+v laske vidim zmysel zivota	
+nie je nic lepsie, ako byt zamilovany(a)	
+	
+Field 26:	
+----------------------------------------	
+dokazem mat sex s kymkolvek, kto dobre vyzera	
+to skutocne zalezi len na okolnostiach	
+najlepsi je sex na jednu noc, robim si srandu ha ha ha::::::@	
+to skutocne zalezi len na okolnostiach	
+nedokazem mat s niekym sex bez lasky	
+nedokazem mat s niekym sex bez lasky	
+ked sex, tak iba s jednou jedinou	
+kazdy sex je prilezitost...	
+nedokazem mat s niekym sex bez lasky	
+nedokazem mat s niekym sex bez lasky	
+	
+Field 27:	
+----------------------------------------	
+laskou mojho zivota	
+mojou chybajucou polovickou	
+v pohode	
+laskou mojho zivota	
+moj najlepsi priatel, laskou mojho zivota,, mojou chybajucou polovickou, absolutne zodpovedny a spolahlivy	
+mojou chybajucou polovickou, a hlavne chalan :d	
+moj najlepsi priatel, laskou mojho zivota, clovek, ktoreho uplne respektujem	
+mal byt...	
+moj najlepsi priatel	
+moj najlepsi priatel, laskou mojho zivota	
+	
+Field 28:	
+----------------------------------------	
+slobodny(a)	
+slobodny(a)	
+vdovec (vdova)	
+slobodny(a)	
+zasnubeny	
+slobodny(a)	
+slobodny(a)	
+zalubeny :/ :/	
+freedom forever	
+zasnubeny s matkom mojim	
+	
+Field 29:	
+----------------------------------------	
+ziadne	
+6	
+mam velmi rada :))	
+obcas nejake stretnem	
+nemam	
+v buducnosti chcem mat	
+v buducnosti by som chcel mat asi tak 2 deti	
+eriika,martina,lucka,adriana,marcela,daniela,eva...	
+2	
+detickyyyy	
+	
+Field 30:	
+----------------------------------------	
+v buducnosti chcem mat deti	
+no tak zo dve tri	
+velmi pozitivny	
+v buducnosti chcem mat deti	
+bolo by pekne nieco po sebe zanechat...	
+v buducnosti chcem mat deti	
+ja ich xcem presne 99999999999999999999999999999999 ani o jedno viac ani menej. a vsetky dievcata=))))))	
+v buducnosti chcem mat deti	
+zlate	
+mam rada deti	
+	
+Field 31:	
+----------------------------------------	
+akcne, horory, komedie, dokumentarne, sci-fi, vojnove, kasove trhaky, eroticke	
+akcne, komedie, romanticke, dokumentarne, zahadne, mysteriozne, muzikaly, vojnove, historicke	
+umelecke, komedie, , horory, eroticke tvrde porno ale no sranda musi byttt:dddd	
+horory, komedie, eroticke, rodinne	
+akcne, komedie, romanticke, rodinne, eroticke	
+akcne, horory, komedie, romanticke, serialy, fantasy, rodinne, zahadne, mysteriozne	
+komedie, romanticke, serialy, zahadne, mysteriozne, sci-fi, fantasy, muzikaly, rodinne, aj take ze zo skutocneho zivota :d ale inak skoro vsetky =)	
+fantasy, komedie, akcne, horory, sci-fi	
+mam...	
+komedie, vojnove, historicke, muzikaly	
+	
+Field 32:	
+----------------------------------------	
+v kine, doma z gauca, u priatela, priatelky	
+doma z gauca, u priatela, priatelky	
+v kine, doma z gauca, u priatela, priatelky, vsade	
+vsade	
+doma z gauca	
+u priatela, priatelky, v kine, doma z gauca	
+v kine, doma z gauca, u priatela, priatelky, vsade =)	
+doma z gauca, v kine	
+rad...	
+doma z gauca, v kine	
+	
+Field 33:	
+----------------------------------------	
+house, techno	
+milujem hudbu :-)	
+hudbu si vypocujem skoro kazdu...pokial znie dobre....tuc tuc beda beda :d	
+disko, house, techno, metal, punk, neznasam hiphop	
+ale hlavne moje na j najjj najjj prodigy prodigy to je vecc    techno ,rap a hlavne namotavky z dnb-bejkyyto je proste haluska	
+rock, metal, grunge, punk, alternativa, klasicka hudba	
+disko, pop, jazz, funky	
+aj ty? ja welmi.. :))	
+vsetkooo xd ......neberte doslova, zalezi na pesnicke :p	
+rap, hip-hop, disko	
+	
+Field 34:	
+----------------------------------------	
+kedykolvek a kdekolvek	
+na posteli, na dobru noc, pri chodzi, kedykolvek a kdekolvek	
+v skole ces hodiny co ma asi viac bavyy ale ne srandujem ja som poctivy studentikkkkk	
+kedykolvek a kdekolvek	
+v aute	
+na posteli, vo vani, na dobru noc, na diskoteke, na koncerte, pri chodzi, kedykolvek a kdekolvek	
+hocikedy, hocikde :)	
+na posteli, vo vani, na dobru noc, s partnerom, na diskoteke, na koncerte, pri chodzi, kedykolvek a kdekolvek	
+kedykolvek a kdekolvek	
+usami...	
+	
+Field 35:	
+----------------------------------------	
+pocuvat dobru hudbu, pozerat dobry film v tv, pc hry, citat dobru knihu, surfovat na sieti a chatovat	
+s kamaratmi do baru, pozerat dobry film v tv, surfovat na sieti a chatovat, nesudte ma podla toho co tam jeeee..	
+pozerat dobry film v tv, citat dobru knihu, ist na koncert, pocuvat dobru hudbu	
+s kamaratmi do baru	
+ist do kina alebo divadla, nieco dobre uvarit, s kamaratmi do baru, pocuvat dobru hudbu, pozerat dobry film v tv, pri svieckach s partnerom	
+zhasnut svetla a meditovat, ist do kina alebo divadla, ist na koncert, s kamaratmi do baru, pocuvat dobru hudbu, pozerat dobry film v tv, surfovat na sieti a chatovat, pri svieckach s partnerom	
+pocuvat dobru hudbu, pc hry, pozerat dobry film v tv, surfovat na sieti a chatovat, s kamaratmi do baru	
+mam rad pohodove vecere...hlavne italsku kuchynu	
+trenovat krasopis	
+pozerat dobry film v tv	
+	
+Field 36:	
+----------------------------------------	
+slovenskej, talianskej, cinskej	
+nasej :-d	
+slovenskej, morske zivocichy	
+slovenskej a hlavne brindzovie halusky baca stary ha ha	
+vsedko dobre	
+cinskej, mexickej	
+vsetko co sa da jest :d	
+slovenskej, indickej, japonskej, mexickej	
+prevazne z kuchyne...	
+la soupe de grodovia	
+	
+Field 37:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/ked-som-sa-narodil-a-diabol-si-povedal-no-do-riti-konkurencia-xd-d">ked som sa narodil/a diabol si povedal : &quot; no do riti. konkurenci&shy;a.!!! &quot; .... xd :d</a> &bull;  <a title="vstup do klubu" href="/klub/chces-byt-mojim-best-frindom-pridaj-sa-sem">chces byt mojim best friendom?? pridaj sa sem!!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ak-ma-milujes-lubis-stan-sa-clenom-dakujem">ak ma milujes, lubis stan sa clenom....&shy;dakujem</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ak-si-moj-priatel-dostanes-pozvanku">♥ak si moj priatel dostanes pozvanku =)</a> &bull;  <a title="vstup do klubu" href="/klub/okres-nove-zamky">okres nove zamky</a> &bull;  <a title="vstup do klubu" href="/klub/klub-nebespecnych-dievcat-a-este-nebezpecnejsiich-chlapcov-xp">klub nebespecny&shy;ch dievcat a este nebezpecne&shy;jsiich chlapcov..&shy;xp</a> &bull;  <a title="vstup do klubu" href="/klub/stanovacky-opekacky-discoteky-kupaliska-takto-si-tinedzeri-predctavuju-prazdniny-aj-ty-pridaj-sa">stanovacky,opekacky,discoteky,kupaliska.&shy;.◄▬..takto si tinedzeri predctavuj&shy;u prazdniny.&shy;.aj ty ?..pridaj sa =*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/nikto-mudri-z-neba-nespadol-d-len-mne-sa-posmyklo-d-d">►nikto mudri z neba nespadol :d.. len mne sa posmyklo :d :d◄</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/s-u-m-m-e-r-2010">s♥u♥m♥m♥e♥&shy;r♥ 2010♥</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-neuveritelne-zachvaty-smiechu">♥milujem neuveritel&shy;ne zachvaty smiechu♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/zivot-s-usmevom-d">zivot s usmevom :-d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vtipy-humor-i-zabava">vtipy, humor i zabava :-)</a> &bull;  <a title="vstup do klubu" href="/klub/s-u-m-m-e-r-2010">s♥u♥m♥m♥e♥&shy;r♥ 2010♥</a> &bull;  <a title="vstup do klubu" href="/klub/vtip-na-kazdy-den-d">vtip na kazdy den :d</a> &bull;  <a title="vstup do klubu" href="/klub/profesionali">profesiona&shy;li</a> &bull;  <a title="vstup do klubu" href="/klub/talentmania">talentmani&shy;a</a> &bull;  <a title="vstup do klubu" href="/klub/monika-bagarova">monika bagarova</a> &bull;  <a title="vstup do klubu" href="/klub/original-1">® original ®</a> &bull;  <a title="vstup do klubu" href="/klub/the-sims-nation">the sims nation</a> &bull;  <a title="vstup do klubu" href="/klub/sme-prosto-dokonaly">sme prosto dokonaly :-** :))</a> &bull;  <a title="vstup do klubu" href="/klub/kto-si-mysli-ze-gaga-je-lepsia-ako-bieber-tak-sa-pridaj">kto si mysli ze gaga je lepsia ako bieber tak sa pridaj !</a> &bull;  <a title="vstup do klubu" href="/klub/anti-hannah-montana">neznasame hannu montanu a miley cyrus !!!</a> &bull;  <a title="vstup do klubu" href="/klub/pc-is-my-life">pc is my life !!!</a> &bull;  <a title="vstup do klubu" href="/klub/the-sims-2-pets">the sims 2 pets</a> &bull;  <a title="vstup do klubu" href="/klub/simpsonovci-d">simpsonovc&shy;i :d</a> &bull;  <a title="vstup do klubu" href="/klub/ja-stracam-nervy-ty-zuby-d">ja stracam nervy, ty zuby !! :d</a> &bull;  <a title="vstup do klubu" href="/klub/dievcata-vs-chlapci-kto-wyhraa-d">... dievcata vs. chlapci ... kto wyhraa? :d</a> &bull;  <a title="vstup do klubu" href="/klub/bude-tu-viac-chalanov-alebo-viac-dievcat-xd-taak-sa-pridaaj">bude tu viac chalanov,alebo viac dievcat?? xd...taak sa pridaaj</a> &bull;  <a title="vstup do klubu" href="/klub/posli-tuto-pozvanku-vsem-ktere-nechces-nikdy-ztratit">posli tuto pozvanku vsem ktere nechces nikdy ztratit :)) ♥</a> &bull;  <a title="vstup do klubu" href="/klub/vikinqa0505-4mika830">vikinqa050&shy;5 &amp; 4mika830</a> &bull;  <a title="vstup do klubu" href="/klub/som-blazon-xp">som-blazon xp</a> &bull; <span class="css_nvsbl"> <a title="vstup do klubu" href="/klub/the-annoying-orange-1">the annoying orange*</a> &bull;  <a title="vstup do klubu" href="/klub/susedia-najsledovanejsi">♥susedia♥ (najsledov&shy;anejsi)&#43;st&shy;ahovanie zdarma</a> &bull;  <a title="vstup do klubu" href="/klub/posli-to-daleej-o">posli to daleej ... =o))</a> &bull;  <a title="vstup do klubu" href="/klub/babenqi-vs-chlani">babenqi vs. chlani</a> &bull;  <a title="vstup do klubu" href="/klub/bukekela-dede-je-najlepsi">♥♥♥bukekel&shy;a ♥♥♥ dede  je najlepsi ♥♥♥</a> &bull;  <a title="vstup do klubu" href="/klub/merry-christmas">merry..chr&shy;istmas :-*</a> &bull;  <a title="vstup do klubu" href="/klub/pokec-je-naj-4">pokec is the best !</a> &bull;  <a title="vstup do klubu" href="/klub/kolotoce-kolotoce-kolotoce-kotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kolotoce-kotoce-kotoce">♥kolotoce♥&shy;kolotoce♥k&shy;olotoce♥ko&shy;toce♥kolot&shy;oce♥koloto&shy;ce♥kolotoc&shy;e♥kolotoce&shy;♥kolotoce♥&shy;kolotoce♥k&shy;olotoce♥ko&shy;lotoce♥kol&shy;otoce♥kolo&shy;toce♥kolot&shy;oce♥kotoce&shy;♥kotoce♥♥♥</a> &bull;  <a title="vstup do klubu" href="/klub/kto-sa-tesi-na-vianoce">kto sa tesi na vianoce  a silvestra sem ! ! !</a> &bull;  <a title="vstup do klubu" href="/klub/kdo-ma-rad-sany-detectvefake-pote-sem">kdo ma rad sany (detectvef&shy;ake) pote sem!</a> &bull;  <a title="vstup do klubu" href="/klub/chceme-summer">chceme summer =*</a> </span></div><p><a title="zobrazit dalsie kluby" href="#"><b>zobrazit dalsie</b></a><a class="css_nvsbl" title="skryt" href="#"><b>skryt</b></a></p>	
+<div> <a title="vstup do klubu" href="/klub/counter-strike-1-7">counter-st&shy;rike 1.6</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/oggy-a-svaby-d">oggy a svaby ♥</a> &bull;  <a title="vstup do klubu" href="/klub/no-dost-aj-no-dost-ne-pomenej">no dost aj...no dost ne..pomene&shy;j..</a> &bull;  <a title="vstup do klubu" href="/klub/ak-sa-niekedy-citis-neuzitocny-na-konci-so-silami-vzdy-si-spomen-ze-si-raz-bol-najrychlejsou-najuspesnejsou-a-jedinou-vitaznou-spermiou-zo-sto-milionov-dals">ak sa niekedy citis neuzitocny, na konci so silami, vzdy si spomen, ze si raz bol.najryc&shy;hlejsou, najuspesne&shy;jsou a jedinou vitaznou spermiou zo sto milionov dals</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/s-u-m-m-e-r-2010">s♥u♥m♥m♥e♥&shy;r♥ 2010♥</a> &bull;  <a title="vstup do klubu" href="/klub/profesionali">profesiona&shy;li</a> &bull;  <a title="vstup do klubu" href="/klub/zivot-s-usmevom-d">zivot s usmevom :-d</a> &bull;  <a title="vstup do klubu" href="/klub/fuuuj-fuuuj-obliiz-obliiz-d-d-d-d">fuuuj fuuuj .. obliiz obliiz =d =d=d=d</a> &bull;  <a title="vstup do klubu" href="/klub/na-pociatku-boh-stvoril-nebo-a-zem-ostatne-je-made-in-china-dd">na pociatku boh stvoril  nebo a zem. ostatne je made in china...=d&shy;d</a> &bull;  <a title="vstup do klubu" href="/klub/ja-stracam-nervy-ty-zuby-d">ja stracam nervy, ty zuby !! :d</a> &bull;  <a title="vstup do klubu" href="/klub/ket-ma-mas-rad-a-pridaj-sa-do-tohto-klubu">ket ma mas rad/a pridaj sa do tohto klubu</a> &bull;  <a title="vstup do klubu" href="/klub/ak-maa-scees-xd-pridaaj-si-tento-kluub-xd">ak maa scees xd pridaaj si tento kluub xd</a> &bull;  <a title="vstup do klubu" href="/klub/i-love-you-my-best-friends-d">i love you my best friends..=&shy;d</a> </div>	
+	
+Field 38:	
+----------------------------------------	
+a co vam striha riadna latabrovinaaa	
+raad no bohuzial nie casto	
+ja na koncerty nechodim	
+chodim...	
+zriedkavo	
+ja na koncerty nechodim	
+na koncerty sa mi chodit nechce...	
+ja na koncerty nechodim	
+neeeeeeeeee	
+ a na hip hopove ked sa da	
+	
+Field 39:	
+----------------------------------------	
+ja sportujem len rekreacne... vrham tien, pozeram do dialky a leziem na nervy, inak nic..	
+auto-moto sporty, behanie, bojove sporty, futbal, hokej, horolezectvo, kolieskove korcule, korculovanie, lyzovanie, plavanie, skateboarding	
+auto-moto sporty, futbal, lyzovanie	
+futbal, korculovanie, pingpong	
+futbal, plavanie, posilnovanie	
+snowboarding	
+posilnovanie, pingpong, auto-moto sporty, futbal, plavanie	
+vackovy gulecnik...	
+tenis, basketbal, futbal	
+futbal	
+	
+Field 40:	
+----------------------------------------	
+auto-moto sporty, hokej, futbal, basketbal	
+auto-moto sporty, behanie, bojove sporty, futbal, hokej, tenis	
+auto-moto sporty, futbal, hokej, lyzovanie, posilnovanie	
+skateboarding, hokej, auto-moto sporty, snowboarding, futbal	
+futbal	
+bojove sporty, hokej, pingpong, posilnovanie, skateboarding, tenis, auto-moto sporty, basketbal, futbal, plavanie	
+zensky plazovy volejbal	
+hokej, futbal, tenis	
+hokej,futbal	
+hokej, futbal a obcas aj tenis	
+	
+Field 41:	
+----------------------------------------	
+gynekolook, zdravotna sestra, sekretarka, farmaceutika tak dalej  lavy naskakovacc ......ha ha ha	
+maserka	
+architekt, biolog, dispecer, farmaceutik, geolog, holic, chemik, instruktor, kuchar, makler, matematik, obchodnik, opravar, pestovatel, predavac, projektant, robotnik, spevak, sustruznik, statistik, technik, ucitel, veduci, vodic atd....ja sa vyznam do vsetkeho!	
+agent 002	
+ako kedy : )))	
+zakladna skola	
+manager, stavebnictvo	
+opravar	
+stredna skola, zatial nepracujem	
+stredna skola	
+	
+Field 42:	
+----------------------------------------	
+ee........necitam knihy...citam akurat tak noviny a casopisy	
+o zabave, hry, humor, historicke romany, zivotopisne a pamate, ekonomicku literaturu, pocitacovu literaturu	
+psychologicku literaturu, literaturu faktu	
+okrem ineho aj: psychologicku literaturu, sociologia a pedagogika, filozoficku literaturu	
+necitam knihy, sem tam si nejaku precitam :)	
+odbornu literaturu, technicku literaturu, pocitacovu literaturu	
+mam...	
+rozpravky	
+o zabave, hry, humor	
+o zabave, hry, humor, zivotopisne a pamate, pocitacovu literaturu, casopisy....	
+	
+Field 43:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/nelutujem-to-co-som-spravyl-ale-to-co-som-nespravyl-a-mohol-som-spravyt">nelutujem to co som spravyl ale to co som nespravyl,, a mohol som spravyt!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-kto-som">som kto som</a> &bull;  <a title="vstup do klubu" href="/klub/pohoda">pohoda</a> &bull;  <a title="vstup do klubu" href="/klub/zamiluj-sa-do-mna-preto-kto-naozaj-som-nie-preto-ako-vyzeram">zamiluj sa do mna preto, kto naozaj som, nie preto, ako vyzeram! :)</a> &bull;  <a title="vstup do klubu" href="/klub/sexovat-by-sa-malo-v-den-zacinajuci-na-p-teda-v-pondelok-piatok-aj-predvcerom-pozajtra-tiez-po-ranajkach-popoludni-a-vobec-kazdy-posrany-den-dd">sexovat by sa malo v den zacinajuci na p. teda v pondelok, piatok, aj predvcerom, pozajtra, tiez po ranajkach, popoludni a vobec kazdy posrany den..:dd</a> &bull;  <a title="vstup do klubu" href="/klub/money-is-my-language">money is my language</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/wsetci-chalani-sem-musi-nas-byt-wiac-ako-bab">wsetci chalani sem ( musi nas byt wiac ako bab )</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetko-vyliecis-usmevom">vsetko vyliecis usmevom :)</a> &bull;  <a title="vstup do klubu" href="/klub/peace-4ever-dd">peace 4ever :dd</a> &bull;  <a title="vstup do klubu" href="/klub/som-aka-som-niesom-dokonala-ale-vynimocna-taku-ako-som-ja-uz-nikde-nenajdes">*som aka som* ! ! ! *niesom dokonala,ale vynimocna* ! ! ! *taku ako som ja uz nikde nenajdes* ! ! !</a> &bull;  <a title="vstup do klubu" href="/klub/magicke-oci">magicke oci</a> &bull;  <a title="vstup do klubu" href="/klub/nemusis-mi-hovorit-co-mam-robit-lebo-ja-to-sprawim-aj-tak-po-svojom">nemusis mi hovorit co mam robit, lebo ja to sprawim aj tak po svojom!!!</a> &bull;  <a title="vstup do klubu" href="/klub/nuf">nuf</a> &bull;  <a title="vstup do klubu" href="/klub/fhantoms-crew-xd-ceskoslovensko-ma-talent">fhantoms crew xd (ceskoslov&shy;ensko ma talent)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-kto-som">som kto som</a> &bull;  <a title="vstup do klubu" href="/klub/facebook">facebook</a> &bull;  <a title="vstup do klubu" href="/klub/radsej-budem-nenavideny-a-za-to-kto-som-ako-milovany-a-za-to-kto-nie-som">radsej budem nenavideny&shy;/a za to kto som, ako milovany/a za to kto nie som !</a> &bull;  <a title="vstup do klubu" href="/klub/zivot-nie-je-o-pocte-nadychnuti-ale-o-chvilach-ktore-ti-dych-beru">♥zivot nie je o pocte nadychnuti, ale o chvilach, ktore ti dych beru..♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mladezi-do-18-nenalievat-mladez-je-sikovna-naleje-si-sama-d">mladezi do 18 nenalievat&shy;. mladez je sikovna, naleje si sama :d</a> &bull;  <a title="vstup do klubu" href="/klub/d-nazdaaar">=d nazdaaar!! :))</a> &bull;  <a title="vstup do klubu" href="/klub/ronnie-coleman-massive-bodybuilder">ronnie coleman massive bodybuilde&shy;r</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/prezil-a-som-nadherne-detstvo-bez-mobilov-a-internetu">prezil/a som nadherne detstvo bez mobilov a internetu</a> &bull;  <a title="vstup do klubu" href="/klub/rychle-stroje">rychle stroje</a> &bull;  <a title="vstup do klubu" href="/klub/radsej-budem-nenavideny-a-za-to-kto-som-ako-milovany-a-za-to-kto-nie-som">radsej budem nenavideny&shy;/a za to kto som, ako milovany/a za to kto nie som !</a> &bull;  <a title="vstup do klubu" href="/klub/i-ta-najhorsia-hodina-v-tvojom-zivote-ma-iba-60-minut">i ta najhorsia hodina v tvojom zivote ma iba 60 minut!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-kto-som">som kto som</a> &bull;  <a title="vstup do klubu" href="/klub/som-luxus-ktory-si-ty-nemozes-dovolit-dd">som luxus ktory si ty nemozes dovolit!..&shy;.;**;dd</a> &bull;  <a title="vstup do klubu" href="/klub/i-m-not-special-i-m-limited-edition">i&#39;m not special, i&#39;m limited edition ;-)</a> &bull;  <a title="vstup do klubu" href="/klub/hovno-vole-naser-si-3-p">hovno vole naser si &lt;3 :p</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-leto-1">milujem leto!</a> &bull;  <a title="vstup do klubu" href="/klub/ked-nas-tu-bude-5-416-958-ludi-budeme-tu-vsetci-slovaci">ked nas tu bude 5 416 958 ludi budeme tu vsetci slovaci =)</a> &bull;  <a title="vstup do klubu" href="/klub/blazni-xd">blazni..xd</a> &bull;  <a title="vstup do klubu" href="/klub/posli-sem-vsetkych-svojich-priatelov-mozno-sa-nam-podari-pozbierat-vsetkych-ludi-z-pokecu">posli sem vsetkych svojich priatelov. mozno sa nam podari pozbierat vsetkych ludi z pokecu!!! ;)</a> &bull;  <a title="vstup do klubu" href="/klub/spagety-a-cestoviny">spagety a cestoviny</a> &bull;  <a title="vstup do klubu" href="/klub/talentmania-2">&quot;talentman&shy;ia&quot;</a> &bull;  <a title="vstup do klubu" href="/klub/vaneska9999-paporot-vivien88288-dada15975312-cool-teeaam-3">vaneska999&shy;9,h2oooo3,paporot,vivien8828&shy;8,dada159753&shy;12,vikinqa150 - cool teeaam &lt;3</a> &bull;  <a title="vstup do klubu" href="/klub/christmaas">christmaas =)</a> &bull;  <a title="vstup do klubu" href="/klub/vesele-vianoce-p">vesele vianoce :-p</a> &bull;  <a title="vstup do klubu" href="/klub/juchu-vianoce">juchu vianoce ;-))</a> &bull;  <a title="vstup do klubu" href="/klub/nesud-ludi-najprv-sa-pozri-na-seba">nesud ludi!najpr&shy;v sa pozri na seba!</a> &bull;  <a title="vstup do klubu" href="/klub/stop-22">stop !</a> &bull;  <a title="vstup do klubu" href="/klub/panelak-facebook-fan-page">panelak - facebook fan page</a> &bull;  <a title="vstup do klubu" href="/klub/tisic-a-jedna-noc-binbir-gece-official-pokec-fanclub">tisic a jedna noc / binbir gece / official pokec fanclub</a> &bull;  <a title="vstup do klubu" href="/klub/peticia-proti-nude">peticia proti &quot;nude&quot;!!!</a> &bull;  <a title="vstup do klubu" href="/klub/i-mcdonald">i ♥ mcdonald</a> &bull; <span class="css_nvsbl"> <a title="vstup do klubu" href="/klub/martin-harich-alzbeta-loleckarova-noah-scott-ellenwood">martin harich,alzbeta loleckarov&shy;a,noah scott ellenwood :) ♥</a> &bull;  <a title="vstup do klubu" href="/klub/leto-2o11">leto 2o11</a> &bull;  <a title="vstup do klubu" href="/klub/ms-hokej-2o11-drzime-slovenskuu-d">ms hokej 2o11 ! :) drzime slovenskuu :d !</a> &bull;  <a title="vstup do klubu" href="/klub/na-co-su-politici-aby-nicili-zivot-inym">na co su politici?! aby nicili zivot inym!</a> &bull;  <a title="vstup do klubu" href="/klub/anti-chipmunks">anti chipmunks ♥</a> &bull;  <a title="vstup do klubu" href="/klub/www-x-design-blog-cz">www.x-desi&shy;gn.blog.cz</a> &bull;  <a title="vstup do klubu" href="/klub/chceme-sa-dat-do-vztahu-xd">chceme sa dat do vztahu!! xd</a> </span></div><p><a title="zobrazit dalsie kluby" href="#"><b>zobrazit dalsie</b></a><a class="css_nvsbl" title="skryt" href="#"><b>skryt</b></a></p>	
+<div> <a title="vstup do klubu" href="/klub/na-kamosow-sa-tesim-ale-na-ucenie-ne">na kamosow sa tesim ale na ucenie ne....</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/lubim-havinkov">lubim havinkov</a> </div>	
+	
+Field 44:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/sa-poseres">sa poseres</a> &bull;  <a title="vstup do klubu" href="/klub/_dizzee-_rascal_">_dizzee _rascal_</a> &bull;  <a title="vstup do klubu" href="/klub/raprezent-metroclub-sala">raprezent (metroclub sala</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/hudba-14">hudba 2011</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/power-metal">power metal</a> &bull;  <a title="vstup do klubu" href="/klub/gamma-ray">gamma ray</a> &bull;  <a title="vstup do klubu" href="/klub/metal-4-ever">.:metal:. .:4-ever-:&shy;.</a> &bull;  <a title="vstup do klubu" href="/klub/kai-michael-hansen">kai michael hansen</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/bez-hudby-ani-den">bez hudby ani den !! :*</a> &bull;  <a title="vstup do klubu" href="/klub/the-devil-wears-prada">the devil wears prada</a> &bull;  <a title="vstup do klubu" href="/klub/vladis-official-group">vladis official group !</a> &bull;  <a title="vstup do klubu" href="/klub/waka-waka-ehhh-ehhhh-forewer">waka waka ehhh ehhhh forewer</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/bez-hudby-ani-den">bez hudby ani den !! :*</a> &bull;  <a title="vstup do klubu" href="/klub/no-music-no-life-3">♥ no music, no life ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/hudba-je-liek">hudba je liek</a> &bull;  <a title="vstup do klubu" href="/klub/jaroslav-filip">jaroslav filip</a> &bull;  <a title="vstup do klubu" href="/klub/neznasam-hannu-montanu">neznasam hannu montanu</a> &bull;  <a title="vstup do klubu" href="/klub/unisex">unisex</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/music-is-my-life">music is my life</a> &bull;  <a title="vstup do klubu" href="/klub/prekliata-skola">neznasam skolu  ! musi †</a> &bull;  <a title="vstup do klubu" href="/klub/hsm2">hsm2</a> &bull;  <a title="vstup do klubu" href="/klub/bez-hudby-ani-den">bez hudby ani den !! :*</a> &bull;  <a title="vstup do klubu" href="/klub/jonas-brothers">jonas brothers</a> &bull;  <a title="vstup do klubu" href="/klub/music-4ever">music 4ever!!!</a> &bull;  <a title="vstup do klubu" href="/klub/ash-selly-demi">ash ♥ selly ♥ demi ♥</a> &bull;  <a title="vstup do klubu" href="/klub/monika-bagarova-je-nejlepsi">monika bagarova je nejlepsi</a> &bull;  <a title="vstup do klubu" href="/klub/selena-gomez-4ever">selena gomez 4ever</a> &bull;  <a title="vstup do klubu" href="/klub/selena-gomez-club">selena gomez club</a> &bull;  <a title="vstup do klubu" href="/klub/youtube-4">youtube =)</a> &bull;  <a title="vstup do klubu" href="/klub/panelak-vi">panelak vi</a> &bull;  <a title="vstup do klubu" href="/klub/helium-party-in-the-kuwajt">helium party in the kuwajt</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-hudbu-love-you-music">milujem hudbu :) love you music :)</a> &bull;  <a title="vstup do klubu" href="/klub/enrique-iglesias-usher-ft-lil-wayne-dirty-dancer">::::::::::&shy;:-------&gt; enrique iglesias , usher , ft. lil wayne - dirty dancer :-) :::::::---&shy;--&gt;</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/hip-hop-2">hip hop</a> &bull;  <a title="vstup do klubu" href="/klub/dramatikz-2">♥ dramatikz♥</a> &bull;  <a title="vstup do klubu" href="/klub/hip-hop-people">***hip-hop people***</a> &bull;  <a title="vstup do klubu" href="/klub/dramatikz-8">dramatikz ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/talent-mania-2">talent mania :-)</a> &bull;  <a title="vstup do klubu" href="/klub/beautiful-lies-dnb-step-youtube-com">beautiful lies ( dnb step )....youtu&shy;be.com</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/metallica">metallica</a> &bull;  <a title="vstup do klubu" href="/klub/metal">metal</a> &bull;  <a title="vstup do klubu" href="/klub/hudba-je-liek">hudba je liek</a> &bull;  <a title="vstup do klubu" href="/klub/avenged-sevenfold-a7x-1">avenged sevenfold - a7x</a> &bull;  <a title="vstup do klubu" href="/klub/systen-of-a-down">systen of a down......&shy;..</a> &bull;  <a title="vstup do klubu" href="/klub/antirytmus">antirytmus</a> &bull;  <a title="vstup do klubu" href="/klub/konflikt-best-punk-rock-skupina">konflikt best punk-rock skupina</a> &bull;  <a title="vstup do klubu" href="/klub/nenavidim-justina-biebera">nenavidim justina biebera</a> &bull;  <a title="vstup do klubu" href="/klub/rock-punk-metal-toto-je-moj-zivot">rock,punk,metal toto je moj zivot!</a> &bull;  <a title="vstup do klubu" href="/klub/mam-rad-a-ked-mi-pesnicka-pripomina-zazitok-z-minulosti">mam rad(a) ked mi pesnicka pripomina zazitok z minulosti.</a> &bull;  <a title="vstup do klubu" href="/klub/justin-biber-is-gay">justin biber .. is gay !!!</a> &bull;  <a title="vstup do klubu" href="/klub/synyster-gates-forever">synyster gates.....&shy;....foreve&shy;r</a> </div>	
+	
+Field 45:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/autobazar-eu">autobazar.&shy;eu</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ford-mustang-slovakia">ford mustang slovakia</a> &bull;  <a title="vstup do klubu" href="/klub/auta-snou">auta snov</a> &bull;  <a title="vstup do klubu" href="/klub/skoda-felicia-4-ewer">skoda felicia 4-ewer</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/bean-bieber">*bean-bieb&shy;er*</a> &bull;  <a title="vstup do klubu" href="/klub/autobazar-eu">autobazar.&shy;eu</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/drift">drift</a> &bull;  <a title="vstup do klubu" href="/klub/ford-mustang-gt500">ford mustang gt500</a> &bull;  <a title="vstup do klubu" href="/klub/i-love-bmw">i love bmw</a> &bull;  <a title="vstup do klubu" href="/klub/tuning-club">tuning club</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-rychlu-jazdu-a-pocit-slobody">© milujem rychlu jazdu ,a pocit slobody...</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/milujem-bmw-x6">milujem bmw x6 ! ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/subaru-impreza-wrx-sti">subaru impreza wrx sti</a> &bull;  <a title="vstup do klubu" href="/klub/tuning-klub">tuning klub</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/bratia-bezouskove">bratia bezouskove</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/autobazar-eu">autobazar.&shy;eu</a> &bull;  <a title="vstup do klubu" href="/klub/autoobuv-sk">autoobuv.s&shy;k</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/subaru-impreza-wrx-sti">subaru impreza wrx sti</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/tuning-klub">tuning klub</a> </div>	
+	
+Field 46:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/moze-mat-tento-jogurt-viac-priaznivcov-ako-ma-fico">moze mat tento jogurt viac priaznivco&shy;v ako ma fico?</a> &bull;  <a title="vstup do klubu" href="/klub/antifico">antifico</a> &bull;  <a title="vstup do klubu" href="/klub/antifa-1">antifa!!!</a> &bull;  <a title="vstup do klubu" href="/klub/slovensko-si-nedame">slovensko si nedame !!!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/antisas">anti sas</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetci-mojii-originalny-kamosi-do-toho-klubu">..vsetci mojii originalny kamosi do toho klubu..!:)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/slovensko-si-nedame">slovensko si nedame !!!!!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/slovensko-si-nedame">slovensko si nedame !!!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/dano-drevo-1">dano drevo</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-slovak-a-som-na-to-hrdy-6">som slovak a som na to hrdy! :))</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/klub-sracu">klub sracu</a> &bull;  <a title="vstup do klubu" href="/klub/coz-tych-klubov-mate">coz tych klubov mate?</a> &bull;  <a title="vstup do klubu" href="/klub/lubom-pokec">lubom pokec</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-slovak-a-som-na-to-hrdy-6">som slovak a som na to hrdy! :))</a> &bull;  <a title="vstup do klubu" href="/klub/subtropiske-zahradnictvi">subtropisk&shy;e zahradnict&shy;vi</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/slovensko-si-nedame">slovensko si nedame !!!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/mia-miguel-te-amo">mia amor miguel</a> &bull;  <a title="vstup do klubu" href="/klub/skarede-kaciatko-d">*klub pre deti*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mnb-jee-naaajj-s-mkr">mnb.. jee naaajj.. s mkr =))</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/anahi-bebe-portila-from-rbd-fans">anahi bebe portila from rbd fans</a> &bull;  <a title="vstup do klubu" href="/klub/one-direction-8">♥ one  direction ♥</a> </div>	
+	
+Field 47:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/lubit-mozme-kazdeho-no-milovat-len-jendeho">lubit mozme kazdeho , no milovat len jendeho</a> &bull;  <a title="vstup do klubu" href="/klub/som-do-teba-si-aj-ty-do-mna-budeme-frajeri">som do teba!..si aj ty do mna?..bude&shy;me frajeri!?.&shy;:-*</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-ked-mi-niekto-napise-chybas-mi">milujem,ked mi niekto napise: chybas mi ! ;)</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-svoju-lasku">milujem svoju lasku :-*</a> &bull;  <a title="vstup do klubu" href="/klub/slzy-ti-nevratia-co-osud-vzal-vratia-len-bolest-smutok-a-zial">* slzy ti nevratia co osud vzal, vratia len bolest, smutok a zial :´( *</a> &bull;  <a title="vstup do klubu" href="/klub/raz-pochopis-ako-velmi-mi-na-tebe-zalezi-a-co-pre-mna-znamenas-3">raz pochopis ako velmi mi na tebe zalezi a co pre mna znamenas..&shy;&lt;3</a> &bull;  <a title="vstup do klubu" href="/klub/srdcu-nerozkazes-srdce-si-vybera-samo">srdcu nerozkazes,srdce si vybera samo :)</a> &bull;  <a title="vstup do klubu" href="/klub/krasne-je-zit-ak-mas-pre-koho">......♥ ♥ ♥........k&shy;rasne je zit, ak mas pre koho ....♥ ♥ ♥....</a> &bull;  <a title="vstup do klubu" href="/klub/ked-ti-odomna-pride-pozvanka-mam-ta-rada">ked ti odomna pride pozvanka, mam ta rada :-*</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-ta-miluj-aj-ty-mna">milujem ta ... miluj aj ty mna ...</a> &bull;  <a title="vstup do klubu" href="/klub/najlepsia-rodina">!!!..::naj&shy;lepsia rodina::..&shy;!!!</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-ta-laska-3">milujem ta laska :*****</a> &bull;  <a title="vstup do klubu" href="/klub/chcem-ta-4">chcem ta !</a> &bull;  <a title="vstup do klubu" href="/klub/milujeeem-ta-a-nikdy-na-teba-nezabudnem">milujeeem ta a nikdy na teba nezabudnem ...</a> &bull;  <a title="vstup do klubu" href="/klub/bozkavaj-bozkavaj">:-*bozkava&shy;j,bozkavaj,... :-*</a> &bull;  <a title="vstup do klubu" href="/klub/pozvi-sem-cloveka-ktoremu-chces-povedat-dakujem-za-to-ze-si">pozvi sem cloveka, ktoremu chces povedat: *dakujem za to, ze si* ..!! :*</a> &bull;  <a title="vstup do klubu" href="/klub/raz-ked-budes-v-naruci-inej-stat-spomen-si-aj-mne-si-vravel-mam-ta-rad">raz ked budes v naruci inej stat, spomen si aj mne si vravel mam ta rad</a> &bull;  <a title="vstup do klubu" href="/klub/luubiss-ma">luubiss ma???:*</a> &bull;  <a title="vstup do klubu" href="/klub/luubime-sa">luubime sa :-**</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/to-co-urobis-je-viac-ako-to-co-len-povies">to co urobis je viac ako to co len povies...</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/sklamanie">male lasky prinasaju casom len lahostajno&shy;st, velke sklamanie</a> &bull;  <a title="vstup do klubu" href="/klub/tuzim-po-tom-co-nemozem-mat">tuzim po tom co nemozem mat! :(</a> &bull;  <a title="vstup do klubu" href="/klub/nevies-saa-rozhodnut-rozhodni-sa-srdcom">nevies saa rozhodnut.&shy;.? rozhodni sa srdcom..!</a> &bull;  <a title="vstup do klubu" href="/klub/to-co-urobis-je-viac-ako-to-co-len-povies">to co urobis je viac ako to co len povies...</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/3-laska-je-svina-3">&lt;3 laska je svina &lt;3</a> &bull;  <a title="vstup do klubu" href="/klub/chlap-nikdy-nema-problem-vyzliect-ta-ale-obliekat-sa-vzdy-musis-sama-d">chlap nikdy nema problem vyzliect ta, ale obliekat sa vzdy musis sama... :d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/facebook-1">facebook :)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vazim-si-tvoje-kamaratstvo-a-preto-ti-posielam-pozvanku-do-tejto-skupiny-o">vazim si tvoje kamaratstv&shy;o a preto ti posielam pozvanku do tejto skupiny:o)</a> &bull;  <a title="vstup do klubu" href="/klub/raz-pochopis-ako-velmi-mi-na-tebe-zalezi-a-co-pre-mna-znamenas-3">raz pochopis ako velmi mi na tebe zalezi a co pre mna znamenas..&shy;&lt;3</a> &bull;  <a title="vstup do klubu" href="/klub/ked-ti-odomna-pride-pozvanka-mam-ta-rada">ked ti odomna pride pozvanka, mam ta rada :-*</a> &bull;  <a title="vstup do klubu" href="/klub/laska-nie-je-ziadna-veda-kofola-to-vie-uz-50-rokov">laska nie je ziadna veda..kofo&shy;la to vie uz 50 rokov...:-&shy;)</a> &bull;  <a title="vstup do klubu" href="/klub/mesto-nove-zamky">mesto nove zamky</a> &bull;  <a title="vstup do klubu" href="/klub/mas-ma-aspon-trosku-rad-a-tak-sa-pridaj-do-klubu-d">mas ma aspon trosku rad/a???,,, tak sa pridaj do klubu:d,, ak nie, taq jednoducho &quot; ignoruj &quot; !!!</a> &bull;  <a title="vstup do klubu" href="/klub/kvoli-tebe-precestujem-cely-svet">kvoli tebe precestuje&shy;m cely svet</a> &bull;  <a title="vstup do klubu" href="/klub/pozvi-sem-cloveka-ktoremu-chces-povedat-dakujem-za-to-ze-si">pozvi sem cloveka, ktoremu chces povedat: *dakujem za to, ze si* ..!! :*</a> &bull;  <a title="vstup do klubu" href="/klub/tyranie-zvierat-je-odporneeeeeeeeeee">tyranie zvierat je odporneeee&shy;eeeeeee</a> &bull;  <a title="vstup do klubu" href="/klub/telom-europan-srdcom-slovak-dusou-madar">telom europan , srdcom slovak , dusou madar!</a> &bull;  <a title="vstup do klubu" href="/klub/tisic-a-jedna-noc-24">♥ tisic a jedna noc ♥</a> &bull;  <a title="vstup do klubu" href="/klub/co-si-myslite-o-vivien88288-d">co si myslite o vivien8828&shy;8?:d</a> &bull;  <a title="vstup do klubu" href="/klub/drzime-s-vivien88288">drzime s vivien8828&shy;8</a> &bull;  <a title="vstup do klubu" href="/klub/ak-ju-milujes-nieje-co-riesit-1">ak ju milujes, nieje co riesit ♥</a> &bull;  <a title="vstup do klubu" href="/klub/i-twilight-1">i ♥ twilight</a> &bull;  <a title="vstup do klubu" href="/klub/kto-ma-rad-detectvefake-nech-vstupi">kto ma rad detectvefa&shy;ke nech vstupi ;-*)</a> &bull;  <a title="vstup do klubu" href="/klub/i-love-inna-1">♥ i love inna ♥</a> &bull;  <a title="vstup do klubu" href="/klub/lady_delacour">♥ lady_delac&shy;our ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/i-people-who-make-me-smile">i ♥ people, who make me smile :-)</a> &bull;  <a title="vstup do klubu" href="/klub/milujeeeeeeeeeeeem-ked-mi-povie-luubiiiiim-ta">milujeeeee&shy;eeeeeeem,ked mi povie : luubiiiiim ta !! :-*</a> &bull;  <a title="vstup do klubu" href="/klub/pozvi-tu-vsetkych-svojich-priatelov-ktorych-mas-skutocne-rad">pozvi tu vsetkych svojich priatelov,ktorych mas skutocne rad! ;)</a> &bull;  <a title="vstup do klubu" href="/klub/preco-ho-tak-milujem">preco ho tak milujem :(</a> &bull;  <a title="vstup do klubu" href="/klub/zrada-boli-najviac-samotneho-zradcu-skor-alebo-neskor-na-kazdeho-podrazaka-pride">zrada boli najviac samotneho zradcu. skor alebo neskor na kazdeho podrazaka pride.</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ked-ti-odomna-pride-pozvanka-mam-ta-rada">ked ti odomna pride pozvanka, mam ta rada :-*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-do-teba-si-aj-ty-do-mna-budeme-frajeri">som do teba!..si aj ty do mna?..bude&shy;me frajeri!?.&shy;:-*</a> &bull;  <a title="vstup do klubu" href="/klub/na-minulost-zabudam-pre-pritomnost-zijem-a-na-buducnost-nemyslim">na minulost zabudam, pre pritomnost zijem,a na buducnost nemyslim</a> &bull;  <a title="vstup do klubu" href="/klub/to-co-urobis-je-viac-ako-to-co-len-povies">to co urobis je viac ako to co len povies...</a> &bull;  <a title="vstup do klubu" href="/klub/bf-patria-sem">bf patria sem</a> &bull;  <a title="vstup do klubu" href="/klub/zalubenci-d">zalubenci :d</a> &bull;  <a title="vstup do klubu" href="/klub/posielam-ti-pozvanku-preto-lebo-mi-na-tebe-zalezi">posielam ti pozvanku preto, lebo mi na tebe zalezi :)</a> &bull;  <a title="vstup do klubu" href="/klub/pozvi-sem-cloveka-ktoremu-chces-povedat-dakujem-za-to-ze-si">pozvi sem cloveka, ktoremu chces povedat: *dakujem za to, ze si* ..!! :*</a> &bull;  <a title="vstup do klubu" href="/klub/usmev-ta-rozziari-bozk-ta-rozochveje-a-dotyk-ta-dostane">usmev ta rozziari, bozk ta rozochveje a dotyk ta dostane...&shy;..</a> &bull;  <a title="vstup do klubu" href="/klub/asi-ta-stale-lubim">=((( asi ta stale lubim =))</a> &bull;  <a title="vstup do klubu" href="/klub/velka-vdaka-mojim-priatelom-ktory-ma-este-nikdy-nezradily">velka vdaka mojim priatelom ktory ma este nikdy nezradili :-* :)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mi-romaci-nie">mi romaci nie</a> &bull;  <a title="vstup do klubu" href="/klub/me-o-kilik">zme vsetci koplikovan&shy;i</a> </div>	
+	
+Field 48:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/dobsina">dobsina</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/talent-mania-7">talent  mania</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/perfect">perfect ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/secovska-polianka-city-of-joy-d">secovska polianka - city of joy :d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/peace-and-love-7">*peace and love*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-hrdy-ze-som-bardejovcan">som hrdy ze som bardejovca&shy;n</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/europaci">europaci :) :) :)</a> &bull;  <a title="vstup do klubu" href="/klub/perfect">perfect ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/naco-chodit-do-skoly-ked-desiatu-mozem-zjest-aj-doma-d-1">:d naco chodit do skoly ked desiatu mozem zjest aj doma? :d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/oravska-lesna">oravska lesna</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/peace-and-love-7">*peace and love*</a> </div>	
+	
+Field 49:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/surany_city">surany_cit&shy;y</a> &bull;  <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/surany_city">surany_cit&shy;y</a> &bull;  <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/sme-proti-zabijaniu-smolkov-do-smolkovej-zmrzliny">sme proti zabijaniu smolkov do smolkovej zmrzliny!</a> &bull;  <a title="vstup do klubu" href="/klub/skrecki">skrecki :)</a> &bull;  <a title="vstup do klubu" href="/klub/psichiatria_no_pote_uf_xp">psichiatri&shy;a_no_pote_&shy;uf_xp</a> &bull;  <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> &bull;  <a title="vstup do klubu" href="/klub/the-sims">the sims</a> &bull;  <a title="vstup do klubu" href="/klub/kamarat-5">kamarat ! :)</a> &bull;  <a title="vstup do klubu" href="/klub/skrecky-naj-zvierata-d">skrecky naj zvierata :d</a> &bull;  <a title="vstup do klubu" href="/klub/skrecok-klub">skrecok klub</a> &bull;  <a title="vstup do klubu" href="/klub/jhaaaak-ja-milujem-noveeeeee-zaaamkyyyy">jhaaaak ja milujem noveeeeee zaaamkyyyy</a> &bull;  <a title="vstup do klubu" href="/klub/psiikovia">psiikovia</a> &bull;  <a title="vstup do klubu" href="/klub/pokec-plus-zadarmo">!!!!!!!!!!&shy;!!!!pokec plus zadarmo !!! --sem-- !!!!!!!!!!&shy;!!!!!!!!!!&shy;!!!!!!!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/milujeme-demi-lovato-demi-my-ta-nesklameme-sme-tvoji-naj-fanusci">milujeme demi lovato! demi my ta nesklameme&shy;! sme tvoji &quot;naj&quot; fanusci</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/anti-justin-bieber-1">anti justin bieber :-*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/tanec">tanec</a> &bull;  <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> &bull;  <a title="vstup do klubu" href="/klub/nesi-v-klube-pod-sem">nesi v klube?pod&#39; sem!</a> &bull;  <a title="vstup do klubu" href="/klub/kazdy-clovek-ma-svoj-styl-a-nikto-nema-pravo-mu-ho-brat">kazdy clovek ma svoj styl a nikto nema pravo mu ho brat!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/sme-proti-zabijaniu-smolkov-do-smolkovej-zmrzliny">sme proti zabijaniu smolkov do smolkovej zmrzliny!</a> &bull;  <a title="vstup do klubu" href="/klub/anti-justin-bieber-1">anti justin bieber :-*</a> &bull;  <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> &bull;  <a title="vstup do klubu" href="/klub/hana-montana-je-zlocin-za-ktory-by-mali-ist-do-basy-ti-ktori-ju-vytvorily">hana montana je zlocin,za ktory by mali ist do basy ti,ktori ju vytvorily</a> &bull;  <a title="vstup do klubu" href="/klub/kazdy-clovek-ma-svoj-styl-a-nikto-nema-pravo-mu-ho-brat">kazdy clovek ma svoj styl a nikto nema pravo mu ho brat!</a> &bull;  <a title="vstup do klubu" href="/klub/anti-lady-gaga-pfuj">anti lady gaga !!! pfuj</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-kone-3">milujem kone... &lt;3</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cely-pokec-napchame-do-tohto-klubu">cely pokec napchame do tohto klubu!</a> </div>	
+	
+Field 50:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/vsedci-ktory-su-v-tomto-klube-su-pekny">vsedci ktory su v tomto klube su pekny !!! :-*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/valovilag">valovilag</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/kazdy-sa-za-seba">kazdy sa za seba</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/bez-mobilu-ani-na-krok-d">bez mobilu,ani na krok =d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/vsetkyy-baby-sem-budeme-mat-vjac-clenov-ako-chalani">vsetkyy baby sem !!!(budeme mat vjac clenov ako chalani?)</a> </div>	
+	
+Field 51:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/pokec">pokec</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mobilne-telefony">mobilne telefony</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/volakedy-som-mal-vela-casu-potom-mi-nejaky-idiot-ukazal-pokec">volakedy som mal vela casu.. potom mi nejaky idiot ukazal pokec!!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/conter-strike-1-6">conter strike 1.6</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/pokec">pokec</a> &bull;  <a title="vstup do klubu" href="/klub/dedee-aj-na-pokeci-d">dedee aj na pokeci!!!! :d</a> &bull;  <a title="vstup do klubu" href="/klub/www-melibarca-blog-cz">www.meliba&shy;rca.blog.c&shy;z</a> &bull;  <a title="vstup do klubu" href="/klub/jedina-real-vivien-je-vivien88288-tiadne-kopirky">jedina real vivien je vivien8828&shy;8!!!tiadne kopirky</a> &bull;  <a title="vstup do klubu" href="/klub/peticia-pre-pokec-fotky-automaticky-pridajte-bez-schvalovania">peticia pre pokec - fotky automatick&shy;y pridajte bez schvalovan&shy;ia</a> &bull;  <a title="vstup do klubu" href="/klub/nostromondo">*nostromon&shy;do*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cs-1-8">cs  1.6</a> &bull;  <a title="vstup do klubu" href="/klub/conter-strike-1-6">conter strike 1.6</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/conter-strike-1-6">conter strike 1.6</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/pokec">pokec</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/volakedy-som-mal-vela-casu-potom-mi-nejaky-idiot-ukazal-pokec">volakedy som mal vela casu.. potom mi nejaky idiot ukazal pokec!!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/pokec">pokec</a> </div>	
+	
+Field 52:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/s-c-h-o-o-l">[sch&shy;ool]</a> &bull;  <a title="vstup do klubu" href="/klub/neznasame-skolu-3">neznasame skolu!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mladi-chemici">mladi chemici</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/prazdniny-sa-pomaly-ale-isto-koncia">prazdniny sa pomaly ale isto koncia :(</a> &bull;  <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/gymnazium-surany">gymnazium surany</a> </div>	
+	
+Field 53:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/fernando-torres">fernando torres ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/futbaaaaaaaaaaaaaaaal-je-naj-sport-od">futbaaaaaa&shy;aaaaaaaaaa&shy;l je naj sport !!! =od</a> &bull;  <a title="vstup do klubu" href="/klub/ms-v-hokeji-2011-na-slovensku">!!!!!!!ms v hokeji 2011 na slovensku!&shy;!!!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/martin-skrtel-fans">martin skrtel fans</a> &bull;  <a title="vstup do klubu" href="/klub/dakujeme-palo-demitra">dakujeme palo demitra ! :)</a> &bull;  <a title="vstup do klubu" href="/klub/rip-palo-demitra">rip palo demitra</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/football-klub">football klub</a> &bull;  <a title="vstup do klubu" href="/klub/som-fanusik-futbalu">som fanusik futbalu</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/i-football">i ♥ football</a> &bull;  <a title="vstup do klubu" href="/klub/fernando-torres">fernando torres ;)</a> &bull;  <a title="vstup do klubu" href="/klub/travnicki-dorast-4ewer">travnicki dorast 4ewer</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/i-love-hokej">i love hokej</a> &bull;  <a title="vstup do klubu" href="/klub/fernando-torres">fernando torres ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/football-5">♥♥♥footbal&shy;l♥♥♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/fernando-torres">fernando torres ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/hk-dukla-michalovce">hk dukla michalovce</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/fernando-torres">fernando torres ;)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/cristiano-ronaldo-7">cristiano ronaldo-7</a> </div>	
+	
+Field 54:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/dva-a-pol-chlapa-two-and-a-half-men">dva a pol chlapa (two and a half men)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/upirske-tajomstva">upirske ...tajomst&shy;va</a> &bull;  <a title="vstup do klubu" href="/klub/vyrastal-som-na-transformeroch">vyrastal som na transforme&shy;roch</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/tom-jerry">tom &amp; jerry</a> &bull;  <a title="vstup do klubu" href="/klub/a-walk-to-remember">a walk to remember ♥ ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/fanusici-shreka-sem">fanusici shreka - sem! :)</a> &bull;  <a title="vstup do klubu" href="/klub/neznasam-reklamy-pocas-filmu">neznasam reklamy pocas filmu !</a> &bull;  <a title="vstup do klubu" href="/klub/saaaaaaaam-doma">saaaaaaaam  doma</a> &bull;  <a title="vstup do klubu" href="/klub/panelak-d-1">panelak...&shy;d</a> &bull;  <a title="vstup do klubu" href="/klub/panelak-i-love">panelak i love</a> &bull;  <a title="vstup do klubu" href="/klub/twilight-nikdyneumiera-pokial-bude-tento-svet-budem-kricat-hannah-montana-dead-vsetci-mame-hanky-dost-nema-ziadnu-buducnost-jonas-nech-sa-pekne-schova-my-sme-mladez-twilightova">twilight nikdy neumiera,pokial bude tento svet,budem kricat h2o is dead!vsetc&shy;i mame hanky dost,nema ziadnu buducnost!&shy;wizards nech sa pekne schova,my sme mladez twilightov&shy;a</a> &bull;  <a title="vstup do klubu" href="/klub/tisic-a-jedna-noc-binbir-gece-1">tisic a jedna noc  /  binbir gece</a> &bull;  <a title="vstup do klubu" href="/klub/farma-sledujes-farmu-kazdy-den-tak-sa-pridaj-k-nam">farma - sledujes farmu kazdy den? tak sa pridaj k nam!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/the-simpsons">the simpsons</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/twilight-saga-zatmenie">twilight saga - zatmenie</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/twilight-eclipse-3">★ twilight eclipse ★</a> &bull;  <a title="vstup do klubu" href="/klub/step-up-5">♥ step up 3★</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/the-simpsons">the simpsons</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/teoria-velkeho-tresku-the-big-bang-theory">teoria velkeho tresku (the big bang theory)</a> &bull;  <a title="vstup do klubu" href="/klub/two-and-a-half-men">two and a half men</a> &bull;  <a title="vstup do klubu" href="/klub/californication">californic&shy;ation</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/halloween">halloween</a> &bull;  <a title="vstup do klubu" href="/klub/m_a_f_s_t_o_r_y">mafstory a profesiona&shy;li</a> </div>	
+	
+Field 55:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/taiiansko-italia">taiiansko - italia</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/nove-zamky-moe-mesto">nove zamky moe mesto</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/srdcom-vychodniar">srdcom vychodniar !</a> &bull;  <a title="vstup do klubu" href="/klub/michalovcee-d">michalovce&shy;e :d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-z-dediny-a-co-1">som z dediny a co? :)</a> &bull;  <a title="vstup do klubu" href="/klub/kedz-si-z-vychodu-ta-poc-tu-d-d-1">kedz si z vychodu ta poc tu :-d :-d</a> &bull;  <a title="vstup do klubu" href="/klub/som-z-vychodu-slovenska">som z vychodu slovenska</a> &bull;  <a title="vstup do klubu" href="/klub/michalovcee-d">michalovce&shy;e :d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/rusnaci">rusnaci :)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/region-orava">region orava</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/historia-hrady-zamky">historia ,hrady ,zamky</a> &bull;  <a title="vstup do klubu" href="/klub/som-z-vychodu-slovenska">som z vychodu slovenska</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/kajka-stastnu-cestu">kajka stastnu cestu :):-*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/filakovcania-su-sexi">filakovcan&shy;ia su sexi =*</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/namestovo-4eveer">namestovo-&shy;4eveer</a> </div>	
+	
+Field 56:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/coookoooladqa">♥♥♥ coookooola&shy;dqa ♥♥♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/som-skareda-a-co-zabijes-ma-preto">som skareda ... a co ? zabijes ma preto ?</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/pre-tych-ktory-uz-niesu-medzi-nami">† pre tych ktory uz niesu medzi nami  †</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/prosim-netirajme-zvieratka">prosim netirajme zvieratka!&shy;!!</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ohrej-sa-pri-krbe">ohrej sa pri krbe</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/piwkooooo-xd">piwkooooo xd</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/usmevom-k-liecbe-rakoviny">usmevom k liecbe rakoviny</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/mam-rad-rada-vsetko">mam rad/rada   vsetko :)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/jednota-obchod-plny-zivota">jednota-ob&shy;chod plny zivota</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/coookoooladqa">♥♥♥ coookooola&shy;dqa ♥♥♥</a> </div>	
+	
+Field 57:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/madagascar-mada-co-ar-nie-nie-co-ar-gaskar-d">,,madagascar&shy;..mada co ar? nie nie co ar, gaskar :d&quot;</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> &bull;  <a title="vstup do klubu" href="/klub/dc">dc ♥</a> &bull;  <a title="vstup do klubu" href="/klub/rockstar-energy-drink">rockstar energy drink</a> &bull;  <a title="vstup do klubu" href="/klub/converse-34">converse</a> &bull;  <a title="vstup do klubu" href="/klub/new-yorker-2">♥ •••►new yorker ◄••• ♥</a> &bull;  <a title="vstup do klubu" href="/klub/twilight-saga-twilight-new-moon-eclipse-and-breaking-dawn">twilight saga (twilight,new moon,eclipse and breaking dawn)</a> &bull;  <a title="vstup do klubu" href="/klub/smajliky-xd">smajliky xd</a> &bull;  <a title="vstup do klubu" href="/klub/madagascar-mada-co-ar-nie-nie-co-ar-gaskar-d">,,madagascar&shy;..mada co ar? nie nie co ar, gaskar :d&quot;</a> &bull;  <a title="vstup do klubu" href="/klub/kinder-penguin">kinder  penguin :-)))</a> &bull;  <a title="vstup do klubu" href="/klub/milujem-tenisky-d">milujem tenisky &#39;:d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/new-yorker-2">♥ •••►new yorker ◄••• ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> &bull;  <a title="vstup do klubu" href="/klub/ily_twilight_ily">ily_twilig&shy;ht_ily</a> &bull;  <a title="vstup do klubu" href="/klub/play-boy">♥ play boy ♥</a> &bull;  <a title="vstup do klubu" href="/klub/new-yorker-2">♥ •••►new yorker ◄••• ♥</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/youtube">youtube</a> &bull;  <a title="vstup do klubu" href="/klub/interstore-sk">interstore&shy;.sk</a> &bull;  <a title="vstup do klubu" href="/klub/ja-som-mala-vianocka-ruzove-mam-licka-d-d">ja som mala vianocka..&shy;.ruzove mam licka :d :d</a> &bull;  <a title="vstup do klubu" href="/klub/planeta-deti">planeta deti</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/nike-puma-adidas-nej-znacky">nike,puma,adidas nej.... znacky....&shy;.</a> &bull;  <a title="vstup do klubu" href="/klub/ily_twilight_ily">ily_twilig&shy;ht_ily</a> &bull;  <a title="vstup do klubu" href="/klub/dc">dc ♥</a> &bull;  <a title="vstup do klubu" href="/klub/new-yorker-1">♥ - new yorker  - ♥</a> &bull;  <a title="vstup do klubu" href="/klub/mozilla-firefox">mozilla firefox</a> &bull;  <a title="vstup do klubu" href="/klub/play-boy">♥ play boy ♥</a> &bull;  <a title="vstup do klubu" href="/klub/nike-shoes">nike shoes</a> &bull;  <a title="vstup do klubu" href="/klub/adldas">adldas</a> &bull;  <a title="vstup do klubu" href="/klub/lonsdale-1">lonsdale.)</a> &bull;  <a title="vstup do klubu" href="/klub/hello-kitty-1">*hello kitty*</a> &bull;  <a title="vstup do klubu" href="/klub/snoppy">♥ snoppy ♥</a> &bull;  <a title="vstup do klubu" href="/klub/conwersky-d">conwersky =d....---?</a> &bull;  <a title="vstup do klubu" href="/klub/peace-d">peace :-d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/smiley-miley-is-real-miley-ray-cyrus-peace-mandy-is-real-mandy-jiroux">realna miley ray cyrus ma nick na pokec.sk : smiley-mil&shy;ey.realna mandy jirox ma nick na pokec.sk - peace-mand&shy;y.</a> &bull;  <a title="vstup do klubu" href="/klub/tisic_a_jedna_noc">(¸.•*´tisi&shy;c_a_jedna_&shy;noc¸.•*´¨)</a> &bull;  <a title="vstup do klubu" href="/klub/panelak-je-super-serial">panelak je super serial</a> </div>	
+	
+Field 58:	
+----------------------------------------	
+<div> <a title="vstup do klubu" href="/klub/discovery-channel">discovery channel</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/chcem-byt-aspon-raz-neuveritelne-stastna-ny">chcem byt aspon raz neuveritel&shy;ne stastna/ny&shy;!!:/...</a> &bull;  <a title="vstup do klubu" href="/klub/nikto-nezotrie-slzy-tak-dobre-ako-ruka-toho-kto-ich-sposobil">nikto nezotrie slzy tak dobre ako ruka toho, kto ich sposobil!!&shy;:´(</a> &bull;  <a title="vstup do klubu" href="/klub/gratulujem-svojim-rodicom-ze-maju-take-sikovne-dieta-ako-som-ja-d-d">gratulujem svojim rodicom ze maju take sikovne dieta ako som ja :d:d</a> &bull;  <a title="vstup do klubu" href="/klub/som-zakonom-chranena">som zakonom chraneny/a :*-</a> &bull;  <a title="vstup do klubu" href="/klub/mne-nestaci-si-s-tebou-len-pisat-ja-ta-potrebujem-citit-a-mat-pri-sebe">mne nestaci si s tebou len pisat...ja ta potrebujem citit a mat pri sebe...</a> &bull;  <a title="vstup do klubu" href="/klub/samko-chybas-nam">samko, chybas nam!</a> &bull;  <a title="vstup do klubu" href="/klub/najlepsii-priatel-clowekaaa-wc-hh-xdd">najlepsii priatel clowekaaa.&shy;.........   wc hh xdd</a> &bull;  <a title="vstup do klubu" href="/klub/nikdy-na-teba-nezabudneme">nikdy na teba nezabudnem&shy;e</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/kazdy-je-svojim-sposobom-original">kazdy clovek je svojim sposobom original ;-)</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/usmev-ako-dar-d">usmev ako dar :d</a> &bull;  <a title="vstup do klubu" href="/klub/gratulujem-svojim-rodicom-ze-maju-take-sikovne-dieta-ako-som-ja-d-d">gratulujem svojim rodicom ze maju take sikovne dieta ako som ja :d:d</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/i-povazska-bystrica">i ♥ povazska bystrica ♥</a> &bull;  <a title="vstup do klubu" href="/klub/pruzina-4ewer">pruzina 4ewer</a> &bull;  <a title="vstup do klubu" href="/klub/vsetci-z-pokecu-seem-uvidime-kolko-nas-tu-je">vsetci z pokecu seem..uvid&shy;ime kolko nas tu je</a> &bull;  <a title="vstup do klubu" href="/klub/pruzina-pruzincania-sem">pruzina - pruzincani&shy;a sem</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ten-azet-strasne-opakuje-po-fb-ze">ten azet strasne opakuje po fb ze ?</a> &bull;  <a title="vstup do klubu" href="/klub/slovensko">slovensko</a> &bull;  <a title="vstup do klubu" href="/klub/pozwi-sem-cloweka-ktoremu-chces-powedat-dakujem-ze-si">pozwi sem cloweka ktoremu chces powedat ** dakujem ze si........&shy;..**</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/neznasam-miley-cyrus">neznasam miley cyrus</a> &bull;  <a title="vstup do klubu" href="/klub/facepokec">facepokec :)</a> &bull;  <a title="vstup do klubu" href="/klub/kontakt">kontakt</a> &bull;  <a title="vstup do klubu" href="/klub/dominikamirgova-je-jedina-real-domca-mirgova-na-pokeci">dominikami&shy;rgova je jedina real domca mirgova na pokeci !</a> &bull;  <a title="vstup do klubu" href="/klub/gratulujem-svojim-rodicom-ze-maju-take-sikovne-dieta-ako-som-ja-d-d">gratulujem svojim rodicom ze maju take sikovne dieta ako som ja :d:d</a> &bull;  <a title="vstup do klubu" href="/klub/traapni-overovaci-profilou-p-kradnu-nicky">traapni overovaci profilou =p kradnu nicky!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/lubime-panelak">lubime panelak...</a> &bull;  <a title="vstup do klubu" href="/klub/nenavidim-ludiiiiiii-prezlecenych-za-kamosov">nenavidim ludiiiiiii prezleceny&shy;ch za kamosov   !</a> &bull;  <a title="vstup do klubu" href="/klub/mam-ta-rad-a-preto-ta-poziwam-do-tochto-klubu">mam ta rad/a preto ta poziwam do tochto klubu :)</a> &bull;  <a title="vstup do klubu" href="/klub/stop-proti-tyraniu-zvierat-pridaj-sa">stop proti tyraniu zvierat! pridaj sa</a> &bull;  <a title="vstup do klubu" href="/klub/som-zakonom-chranena">som zakonom chraneny/a :*-</a> &bull;  <a title="vstup do klubu" href="/klub/justin-geyber">justin geyber</a> &bull;  <a title="vstup do klubu" href="/klub/city-nie-su-omyl-d">city nie su omyl :d</a> &bull;  <a title="vstup do klubu" href="/klub/naj-naj-naj-filmy">naj naj naj - filmy a serialy</a> &bull;  <a title="vstup do klubu" href="/klub/ak-sa-sem-prida-vac-jak-1000-ludi-dokazeme-se-ludia-co-na-fb-ohowaraju-pokec-su-ubohi-p">ak sa sem prida vac jak 1000 ludi, dokazeme se ludia co na fb ohowaraju pokec su ubohi!=p</a> &bull;  <a title="vstup do klubu" href="/klub/break-dance-kolotoc">break dance ♥ kolotoc</a> &bull;  <a title="vstup do klubu" href="/klub/niekedy-by-som-chel-a-vratit-cas-naspat">niekedy by som chel/a vratit cas naspat</a> &bull;  <a title="vstup do klubu" href="/klub/kto-ma-od-11-do-16-okov-sem">kto ma od 11 do19 rokov sem</a> &bull;  <a title="vstup do klubu" href="/klub/ked-sa-ti-zacina-meno-na-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-tak-sa-pridaj">ked sa ti zacina meno na : a...b...c.&shy;..d...e...&shy;f...g...h.&shy;..i...j...&shy;k...l...m.&shy;..n...o...&shy;p...q...r.&shy;..s...t...&shy;u...v...w.&shy;..x...y...&shy;z...tak sa pridaj!!!!&shy;!</a> &bull;  <a title="vstup do klubu" href="/klub/zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka-zvieratka">♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥zvieratka&shy;♥♥♥♥♥</a> &bull; <span class="css_nvsbl"> <a title="vstup do klubu" href="/klub/sniezik-sa-nam-chumeli-zima-je-zimicka-ja-som-mala-vianocka-ruzove-mam-licka-padaj-sniezik-padaj-nam-x">sniezik sa nam chumeli, zima je zimicka, ja som mala vianocka, ruzove mam licka. padaj sniezik padaj nam ... x))</a> &bull;  <a title="vstup do klubu" href="/klub/vesele-vianoce-a-vela-snehu">vesele vianoce a vela snehu :**</a> &bull;  <a title="vstup do klubu" href="/klub/nestiham">nestiham !!</a> &bull;  <a title="vstup do klubu" href="/klub/chcem-na-pokeci-nove-smajliky-a-dat-si-do-profilu-hociaku-tapetu-ako-keby-na-pc">chcem na pokeci nove smajliky a dat si do profilu hociaku tapetu ako keby na pc!!</a> &bull;  <a title="vstup do klubu" href="/klub/kto-vyhraa-jaa-som-maalaa-vianockaa-aleebo-dedeee">kto vyhraa : jaa som maalaa vianockaa aleebo dedeee????</a> &bull;  <a title="vstup do klubu" href="/klub/real-monika-bagarova-na-pokeci-je-magupe-sun-100">real monika bagarova na pokeci je magupe.sun 100&#37;</a> &bull;  <a title="vstup do klubu" href="/klub/vivien88288-je-super-baba-kto-suhlasi-nech-sa-prida">vivien8828&shy;8 je super baba! kto suhlasi,nech sa prida!</a> &bull;  <a title="vstup do klubu" href="/klub/anti-kitinka114">anti kitinka114 , nech si nas nepraje!</a> &bull;  <a title="vstup do klubu" href="/klub/nehrajte-sa-na-vivien88288">nehrajte sa na vivien8828&shy;8!</a> &bull;  <a title="vstup do klubu" href="/klub/vivien88288-je-jedina-vivi-a-ziadny-iny-nick-okrem-vivien888-a-wiwi-8-nema">vivien8828&shy;8 je jedina vivi a ziadny iny nick okrem vivien888 a wiwi...8 nema!!!!</a> &bull;  <a title="vstup do klubu" href="/klub/teencelebrity">teencelebr&shy;ity</a> &bull;  <a title="vstup do klubu" href="/klub/koniec-sveta-2012-21-12-11-11">koniec sveta 2012 -21.12. *11:11*</a> &bull;  <a title="vstup do klubu" href="/klub/neznasam-uzatvorene-miestnosti-o">neznasam uzatvorene miestnosti !! :-o</a> &bull;  <a title="vstup do klubu" href="/klub/podstata-podstaty-je-v-podstate-nepodstatna-2">podstata podstaty je v podstate nepodstatn&shy;a .. !!</a> &bull;  <a title="vstup do klubu" href="/klub/modlidba-za-alicku-a-simonku">modlidba za alicku ♥ a simonku ♥</a> &bull;  <a title="vstup do klubu" href="/klub/nenavidime-justina-biebera-dd">nenavidime justina biebera!! :dd</a> &bull;  <a title="vstup do klubu" href="/klub/p-e-a-c-e-8">p*e*a*c*e &lt;3</a> &bull;  <a title="vstup do klubu" href="/klub/anti-fake">anti fake !</a> &bull;  <a title="vstup do klubu" href="/klub/anti-fake-3">→ ♦anti fake♦ ←</a> &bull;  <a title="vstup do klubu" href="/klub/anti-bara-ryn">*anti-bara&shy;.ryn*</a> &bull;  <a title="vstup do klubu" href="/klub/www-viviado-blog-cz">www.viviad&shy;o.blog.cz</a> &bull;  <a title="vstup do klubu" href="/klub/anti-michal-seps-fuj">anti michal seps! fuj!</a> &bull;  <a title="vstup do klubu" href="/klub/vivike-beba-ado-sany">vivike&#43;beb&shy;a&#43;ado&#43;sany</a> &bull;  <a title="vstup do klubu" href="/klub/stop-fake-6">♦! stop fake !♦</a> &bull;  <a title="vstup do klubu" href="/klub/sely_xoxo-fake-vypadni-s-pokecu">sely_xoxo fake!vypad&shy;ni s pokecu!</a> &bull;  <a title="vstup do klubu" href="/klub/britney-namyslene-decko">britney. namyslene decko</a> &bull;  <a title="vstup do klubu" href="/klub/we-love-vivien88288">we love vivien8828&shy;8</a> &bull;  <a title="vstup do klubu" href="/klub/blog-cezet">blog.cezet</a> </span></div><p><a title="zobrazit dalsie kluby" href="#"><b>zobrazit dalsie</b></a><a class="css_nvsbl" title="skryt" href="#"><b>skryt</b></a></p>	
+<div> <a title="vstup do klubu" href="/klub/pes-najlepsi-priatel-cloveka">pes najlepsi priatel cloveka :)</a> &bull;  <a title="vstup do klubu" href="/klub/ostrovcania">ostrovcani&shy;a</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/ved-ja-to-nehovorim-zlozito-to-len-ty-si-debil-d">ved..ja to nehovorim zlozito...&shy;to len ty si debil! :d</a> &bull;  <a title="vstup do klubu" href="/klub/milujemeee-piatky">♥milujemee&shy;e (: piatky :)♥</a> &bull;  <a title="vstup do klubu" href="/klub/vlkaas-d">vlkaas :d</a> &bull;  <a title="vstup do klubu" href="/klub/macka">macka</a> &bull;  <a title="vstup do klubu" href="/klub/vsetci-z-pokecu-seem-uvidime-kolko-nas-tu-je">vsetci z pokecu seem..uvid&shy;ime kolko nas tu je</a> &bull;  <a title="vstup do klubu" href="/klub/kamoskyyyy">kamoskyyyy</a> &bull;  <a title="vstup do klubu" href="/klub/niekto-od-koho-by-som-to-najmenej-ocakaaval-a-ta-sklamal-a">niekto od koho by som to najmenej ocakaaval/&shy;a ta sklamal/a.&shy;..</a> &bull;  <a title="vstup do klubu" href="/klub/rodinaa">rodinaa</a> </div>	
+<div> <a title="vstup do klubu" href="/klub/nemass-na-mna-d-d-d-_________-_________">nemass na mna:d:d:d **********&shy;******** **********&shy;**********&shy;******** **********&shy;**********&shy;******* **********&shy;**********&shy;********* _________!&shy;!!!!!!!!__&shy;_______ ** *** ****</a> </div>	

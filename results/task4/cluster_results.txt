@@ -1,0 +1,6 @@
+Cluster	Size	Avg_Age	Avg_Completion	Min_Completion	Max_Completion
+20	1215410	11.2	40.9	12	100
+30	282743	29.6	37.3	12	100
+40	96884	39.5	35.4	12	97
+50	28788	49.4	35.6	12	93
+60	7352	63.9	32.5	12	98

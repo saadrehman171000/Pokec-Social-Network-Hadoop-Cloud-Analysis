@@ -1,0 +1,13 @@
+Outlier Analysis Summary
+================================================================================
+
+Feature: age
+- Q1: 0.0, Q3: 26.0, IQR: 26.0
+- Outlier Boundaries: [-39.0, 65.0]
+- Outliers: 3129 out of 1632640 (0.19%)
+
+Feature: completion
+- Q1: 12.0, Q3: 64.0, IQR: 52.0
+- Outlier Boundaries: [-66.0, 142.0]
+- Outliers: 0 out of 1632803 (0.00%)
+
