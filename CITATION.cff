@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rehman"
+  given-names: "Saad"
+title: "Pokec Social Network Analysis using MapReduce"
+version: 1.0.0
+date-released: 2024-02-16
+url: "https://github.com/saadrehman171000/Pokec-Social-Network-Hadoop-Cloud-Analysis" 

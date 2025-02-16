@@ -21,9 +21,8 @@ The analysis uses the **Pokec Social Network Dataset** provided by **SNAP (Stanf
 │   ├── model_visualization.py # Visualization scripts
 │   └── task.py # Task-specific implementations
 ├── results/
-│   ├── models/ # Trained model files
-│   ├── task/ # Task-wise results
-│   └── visualizations/ # Generated plots
+│   ├── models/ # Trained model files(visualizations+summaries)
+│   ├── task/ # Task-wise results(visualizations+summaries)
 └── README.md
 ```
 
